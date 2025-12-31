@@ -1,0 +1,4 @@
+6|Tajine|Marocain|35.00|0|35.00|20.00|tomate , pomme de terre , viande
+4|Pizza Margherita|Pizza|7.50|1|3.00|12.00|Tomato:100,Cheese:80
+1|Couscous|Plat|8.50|1|3.00|45.00|Semoule:200,Viande:150
+9|poulet|dinner|50.00|1|30.00|20.00|poulet

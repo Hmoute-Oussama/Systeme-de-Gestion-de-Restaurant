@@ -1,0 +1,5 @@
+poulet|1999.00|kg
+Semoule|5000.00|kg
+Tomato|3000.00|kg
+Cheese|1500.00|kg
+potato|10000.00|kg
